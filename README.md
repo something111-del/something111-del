@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hi 👋, I'm Mahesh Karepalli</h1>
+  <h1 align="center">Hi, I'm Mahesh Karepalli</h1>
   <h3 align="center">Software Developer | Big Data Engineer | Cloud Architect</h3>
   <p align="center">
     <a href="https://personal-website-nine-ecru-53.vercel.app/" target="_blank">Portfolio</a> •
@@ -12,17 +12,17 @@
 
 <br/>
 
-## 👨‍💻 About Me
+##  About Me
 
 I am a **Jr. Software Developer** and **Big Data Engineer** specialized in serverless architectures, microservices, and reliable cloud infrastructure. I transform complex data into actionable insights using modern stacks like **Go, Python, React, and Kubernetes**.
 
-- 🔭 I’m currently working on **High-performance microservices and Big Data Pipelines**.
-- 🌱 I’m currently learning **Advanced GraphRAG and Agentic AI workflows**.
-- 💬 Ask me about **Go, Distributed Systems, AWS, and Docker**.
+-  I’m currently working on **High-performance microservices and Big Data Pipelines**.
+-  I’m currently learning **Advanced GraphRAG and Agentic AI workflows**.
+-  Ask me about **Go, Distributed Systems, AWS, and Docker**.
 
 <br/>
 
-## 💼 Professional Experience
+## Professional Experience
 
 **Jr. Software Developer** | *Tanishk IT Services* (04/2025 – Present)
 - Optimized **Django/FastAPI** backends and **MySQL** performance, reducing API response times by **25%**.
@@ -33,7 +33,7 @@ I am a **Jr. Software Developer** and **Big Data Engineer** specialized in serve
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -59,32 +59,32 @@ I am a **Jr. Software Developer** and **Big Data Engineer** specialized in serve
 
 ### [SMAART - Social Media Analytics & Real-Time Trends](https://github.com/something111-del/SMAART)
 **Stack:** FastAPI, React, k3s, Terraform, Kafka/Celery, DistilBART, AWS
-- 🧠 **Event-Driven Intelligence:** Decoupled ingestion from ML inference using Celery & Redis to process **500+ articles/minute**.
-- 🏗️ **Infra:** Fault-tolerant AWS architecture with **Terraform & Kubernetes (k3s)**.
-- 📊 **Observability:** Full PLG stack (Promtail, Loki, Grafana) for deep system monitoring.
-- 🤖 **AI:** 306M parameter DistilBART summarization & custom spam detection models.
+- **Event-Driven Intelligence:** Decoupled ingestion from ML inference using Celery & Redis to process **500+ articles/minute**.
+- **Infra:** Fault-tolerant AWS architecture with **Terraform & Kubernetes (k3s)**.
+- **Observability:** Full PLG stack (Promtail, Loki, Grafana) for deep system monitoring.
+- **AI:** 306M parameter DistilBART summarization & custom spam detection models.
 
 ### [GoCamp - Campground Discovery Platform](https://github.com/something111-del/GoCamp)
 **Stack:** Go, React, MongoDB, WebSocket, Docker, Cloud Run
-- ⚡ **High Performance:** Polyglot architecture utilizing Go's concurrency for **40% less memory overhead**.
-- 🔄 **Real-time:** Mutex-locked Hub pattern for race-condition-free WebSocket messaging.
-- 🛡️ **Security:** RBAC integrated routing and stateless JWT authentication for scaling to **10,000+ users**.
+- **High Performance:** Polyglot architecture utilizing Go's concurrency for **40% less memory overhead**.
+- **Real-time:** Mutex-locked Hub pattern for race-condition-free WebSocket messaging.
+- **Security:** RBAC integrated routing and stateless JWT authentication for scaling to **10,000+ users**.
 
 ### [PFC - Portfolio Risk & Forecast Extension](https://github.com/something111-del/pfc)
 **Stack:** Go Fiber, Python, Chrome Extension, GCP
-- 📈 **FinTech Orchestrator:** Microservice orchestrator in **Go** handling 10k-path Monte Carlo simulations.
-- 🏎️ **Speed:** Implemented concurrent fan-out data fetching and circuit-breaker patterns for zero-downtime rollouts.
-- 📉 **Analytics:** GBM and GARCH(1,1) models reinforced with synthetic-data fallbacks.
+- **FinTech Orchestrator:** Microservice orchestrator in **Go** handling 10k-path Monte Carlo simulations.
+- **Speed:** Implemented concurrent fan-out data fetching and circuit-breaker patterns for zero-downtime rollouts.
+- **Analytics:** GBM and GARCH(1,1) models reinforced with synthetic-data fallbacks.
 
 ### [SpamCheck - ML SMS Detection](https://github.com/something111-del/spamcheck)
 **Stack:** Python, Flask, Scikit-learn, PySpark
-- 🛡️ **Detection:** TF-IDF + LinearSVC pipeline tuned with GridSearchCV.
-- 🔌 **API:** Robust Flask API with CORS and defensive model loading for real-time predictions.
+- **Detection:** TF-IDF + LinearSVC pipeline tuned with GridSearchCV.
+- **API:** Robust Flask API with CORS and defensive model loading for real-time predictions.
 
 ### [Semantic Book Recommender (RAG)](https://github.com/something111-del/book-recommender)
 **Stack:** LangChain, OpenAI, ChromaDB, Gradio
-- 📚 **AI Discovery:** Semantic retrieval engine using **cosine similarity** over vector stores.
-- 🎭 **Zero-Shot:** Leverages transformer-based emotion tags and genre labels for nuance.
+- **AI Discovery:** Semantic retrieval engine using **cosine similarity** over vector stores.
+- **Zero-Shot:** Leverages transformer-based emotion tags and genre labels for nuance.
 
 <br/>
 
