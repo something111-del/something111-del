@@ -91,7 +91,6 @@ I am a **Jr. Software Developer** and **Big Data Engineer** specialized in serve
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=something111-del&show_icons=true&theme=radical&count_private=true" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=something111-del&layout=compact&theme=radical" width="400" />
 </div>
 <div align="center">
